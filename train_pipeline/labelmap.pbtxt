@@ -1,0 +1,214 @@
+item {
+    id: 1
+    name: 'Space A'
+}
+item {
+    id: 2
+    name: 'Clubs A'
+}
+item {
+    id: 3
+    name: 'Heart A'
+}
+item {
+    id: 4
+    name: 'Diamond  A'
+}
+item {
+    id: 5
+    name: 'Space 2'
+}
+item {
+    id: 6
+    name: 'Clubs 2'
+}
+item {
+    id: 7
+    name: 'Heart 2'
+}
+item {
+    id: 8
+    name: 'Diamond  2'
+}
+item {
+    id: 9
+    name: 'Space 3'
+}
+item {
+    id: 10
+    name: 'Clubs 3'
+}
+item {
+    id: 11
+    name: 'Heart 3'
+}
+item {
+    id: 12
+    name: 'Diamond  3'
+}
+item {
+    id: 13
+    name: 'Space 4'
+}
+item {
+    id: 14
+    name: 'Clubs 4'
+}
+item {
+    id: 15
+    name: 'Heart 4'
+}
+item {
+    id: 16
+    name: 'Diamond  4'
+}
+
+item {
+    id: 17
+    name: 'Space 5'
+}
+item {
+    id: 18
+    name: 'Clubs 5'
+}
+item {
+    id: 19
+    name: 'Heart 5'
+}
+item {
+    id: 20
+    name: 'Diamond  5'
+}
+item {
+    id: 21
+    name: 'Space 6'
+}
+item {
+    id: 22
+    name: 'Clubs 6'
+}
+item {
+    id: 23
+    name: 'Heart 6'
+}
+item {
+    id: 24
+    name: 'Diamond  6'
+}
+
+item {
+    id: 25
+    name: 'Space 7'
+}
+item {
+    id: 26
+    name: 'Clubs 7'
+}
+item {
+    id: 27
+    name: 'Heart 7'
+}
+item {
+    id: 28
+    name: 'Diamond  7'
+}
+item {
+    id: 29
+    name: 'Space 8'
+}
+item {
+    id: 30
+    name: 'Clubs 8'
+}
+item {
+    id: 31
+    name: 'Heart 8'
+}
+item {
+    id: 32
+    name: 'Diamond  8'
+}
+item {
+    id: 33
+    name: 'Space 9'
+}
+item {
+    id: 34
+    name: 'Clubs 9'
+}
+item {
+    id: 35
+    name: 'Heart 9'
+}
+item {
+    id: 36
+    name: 'Diamond  9'
+}
+item {
+    id: 37
+    name: 'Space 10'
+}
+item {
+    id: 38
+    name: 'Clubs 10'
+}
+item {
+    id: 39
+    name: 'Heart 10'
+}
+item {
+    id: 40
+    name: 'Diamond  10'
+}
+
+item {
+    id: 41
+    name: 'Space J'
+}
+item {
+    id: 42
+    name: 'Clubs J'
+}
+item {
+    id: 43
+    name: 'Heart J'
+}
+item {
+    id: 44
+    name: 'Diamond  J'
+}
+item {
+    id: 45
+    name: 'Space Q'
+}
+item {
+    id: 46
+    name: 'Clubs Q'
+}
+item {
+    id: 47
+    name: 'Heart Q'
+}
+item {
+    id: 48
+    name: 'Diamond  Q'
+}
+item {
+    id: 49
+    name: 'Space K'
+}
+item {
+    id: 50
+    name: 'Clubs K'
+}
+item {
+    id: 51
+    name: 'Heart K'
+}
+item {
+    id: 52
+    name: 'Diamond  K'
+}
+
+
+

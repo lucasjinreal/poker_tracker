@@ -1,0 +1,216 @@
+item {
+    id: 1
+    name: '♠A'
+}
+item {
+    id: 2
+    name: '♣A'
+}
+item {
+    id: 3
+    name: '❤A'
+}
+item {
+    id: 4
+    name: '♦A'
+}
+item {
+    id: 5
+    name: '♠2'
+}
+item {
+    id: 6
+    name: '♣2'
+}
+item {
+    id: 7
+    name: '❤2'
+}
+item {
+    id: 8
+    name: '♦2'
+}
+item {
+    id: 9
+    name: '♠3'
+}
+item {
+    id: 10
+    name: '♣3'
+}
+item {
+    id: 11
+    name: '❤3'
+}
+item {
+    id: 12
+    name: '♦3'
+}
+item {
+    id: 13
+    name: '♠4'
+}
+item {
+    id: 14
+    name: '♣4'
+}
+item {
+    id: 15
+    name: '❤4'
+}
+item {
+    id: 16
+    name: '♦4'
+}
+
+item {
+    id: 17
+    name: '♠5'
+}
+item {
+    id: 18
+    name: '♣5'
+}
+item {
+    id: 19
+    name: '❤5'
+}
+item {
+    id: 20
+    name: '♦5'
+}
+item {
+    id: 21
+    name: '♠6'
+}
+item {
+    id: 22
+    name: '♣6'
+}
+item {
+    id: 23
+    name: '❤6'
+}
+item {
+    id: 24
+    name: '♦6'
+}
+
+item {
+    id: 25
+    name: '♠7'
+}
+item {
+    id: 26
+    name: '♣7'
+}
+item {
+    id: 27
+    name: '❤7'
+}
+item {
+    id: 28
+    name: '♦7'
+}
+item {
+    id: 29
+    name: '♠8'
+}
+item {
+    id: 30
+    name: '♣8'
+}
+item {
+    id: 31
+    name: '❤8'
+}
+item {
+    id: 32
+    name: '♦8'
+}
+
+item {
+    id: 33
+    name: '♠9'
+}
+item {
+    id: 34
+    name: '♣9'
+}
+item {
+    id: 35
+    name: '❤9'
+}
+item {
+    id: 36
+    name: '♦9'
+}
+
+item {
+    id: 37
+    name: '♠10'
+}
+item {
+    id: 38
+    name: '♣10'
+}
+item {
+    id: 39
+    name: '❤10'
+}
+item {
+    id: 40
+    name: '♦10'
+}
+
+item {
+    id: 41
+    name: '♠J'
+}
+item {
+    id: 42
+    name: '♣J'
+}
+item {
+    id: 43
+    name: '❤J'
+}
+item {
+    id: 44
+    name: '♦J'
+}
+item {
+    id: 45
+    name: '♠Q'
+}
+item {
+    id: 46
+    name: '♣Q'
+}
+item {
+    id: 47
+    name: '❤Q'
+}
+item {
+    id: 48
+    name: '♦Q'
+}
+item {
+    id: 49
+    name: '♠K'
+}
+item {
+    id: 50
+    name: '♣K'
+}
+item {
+    id: 51
+    name: '❤K'
+}
+item {
+    id: 52
+    name: '♦K'
+}
+
+
+

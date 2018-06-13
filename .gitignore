@@ -1,2 +1,6 @@
 .idea/
+data/
 __pycache__/
+object_detection/
+*.record
+checkpoint/
